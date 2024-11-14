@@ -22,7 +22,7 @@ This project classifies news articles as either **True** or **Fake** using machi
 ---
 Dataset
 
-We are using the Fake and Real News Dataset from Kaggle. This dataset contains two files:
+We are using the Fake and Real News Dataset from Kaggle(https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset?select=Fake.csv). This dataset contains two files:
 
 True.csv: News articles labeled as true.
 Fake.csv: News articles labeled as fake.
