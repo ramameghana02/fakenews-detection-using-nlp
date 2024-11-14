@@ -20,6 +20,12 @@ This project classifies news articles as either **True** or **Fake** using machi
   - `matplotlib` and `wordcloud` for data visualization.
 
 ---
+Dataset
+
+We are using the Fake and Real News Dataset from Kaggle. This dataset contains two files:
+
+True.csv: News articles labeled as true.
+Fake.csv: News articles labeled as fake.
 
 ## **Steps to Run the Project**
 
